@@ -6,7 +6,7 @@ A relational database design for the FlyMore Frequent Flyer Program, including a
 ## ER Diagram
 The Entity-Relationship (ER) Diagram for the FlyMore Frequent Flyer Database is structured to reflect business rules and ensure data integrity.
 
-![ER Diagram](flymore_er_diagram.pdf)
+![ER Diagram](flymore_er_diagram.drawio.pdf)
 
 ## Database Structure
 The database includes the following core tables:
